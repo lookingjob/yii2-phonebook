@@ -1,18 +1,17 @@
 {
   "name": "lookingjob/yii2-phonebook",
-    "description": "The Phonebook App for yii2",
-    "keywords": ["yii2", "phonebook"],
-    "homepage": "https://github.com/lookingjob/yii2-phonebook",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-    {
+  "description": "The Phonebook App for yii2",
+  "keywords": ["yii2", "phonebook"],
+  "homepage": "https://github.com/lookingjob/yii2-phonebook",
+  "version": "v0.1",
+  "type": "library",
+  "license": "MIT",
+  "authors": [{
       "name": "lookingjob",
       "email": "looking.job@i.ua",
       "role": "Creator"
-    }
-  ],
-    "support": {
+    }],
+  "support": {
       "issues": "https://github.com/lookingjob/yii2-phonebook/issues",
       "source": "https://github.com/lookingjob/yii2-phonebook"
     },
