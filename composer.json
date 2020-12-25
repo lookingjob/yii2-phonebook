@@ -1,0 +1,31 @@
+{
+  "name": "lookingjob/yii2-phonebook",
+    "description": "phonebook for yii2",
+    "keywords": ["yii2", "phonebook"],
+    "homepage": "https://github.com/lookingjob/yii2-phonebook",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+    {
+      "name": "lookingjob",
+      "email": "looking.job@i.ua",
+      "role": "Creator"
+    }
+  ],
+    "support": {
+      "issues": "https://github.com/lookingjob/yii2-phonebook/issues",
+      "source": "https://github.com/lookingjob/yii2-phonebook"
+    },
+    "require": {
+      "php": ">=5.4.0",
+      "yiisoft/yii2": "2.0.*",
+      "kartik-v/yii2-widget-datetimepicker": "@dev",
+      "kartik-v/yii2-datecontrol": "@dev",
+      "kartik-v/yii2-widgets": "*"
+    },
+    "extra": {
+      "branch-alias": {
+        "dev-master": "0.0.x-dev"
+      }
+    }
+}
