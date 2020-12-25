@@ -1,6 +1,6 @@
 {
   "name": "lookingjob/yii2-phonebook",
-    "description": "phonebook for yii2",
+    "description": "The Phonebook App for yii2",
     "keywords": ["yii2", "phonebook"],
     "homepage": "https://github.com/lookingjob/yii2-phonebook",
     "type": "library",
